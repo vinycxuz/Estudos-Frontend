@@ -1,6 +1,5 @@
----
-title: Describe the difference between `<script>`, `<script async>` and `<script defer>`
----
+
+## Describe the difference between `<script>`, `<script async>` and `<script defer>`
 
 `<script>` tags are used to include JavaScript on a web page. The `async` and `defer` attributes are used to change how/when the loading and execution of the script happens.
 
